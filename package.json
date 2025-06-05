@@ -1,0 +1,21 @@
+{
+  "name": "polkatruffle",
+  "version": "1.0.0",
+  "description": "A drop-in Truffle suite preconfigured for Passet Hub Testnet (Chain ID 420420421) and other Parachain-EVM networks (no Docker).",
+  "main": "index.js",
+  "bin": {
+    "polkatruffle": "./bin/polkatruffle.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests for polkatruffle itself yet\" && exit 0"
+  },
+  "author": "Sambit Sargam Ekalabya",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "truffle": "^5.11.5",
+    "yargs": "^18.0.0"
+  }
+}
