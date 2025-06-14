@@ -1,5 +1,7 @@
 [![npm version](https://img.shields.io/npm/v/polkatruffle.svg)](https://www.npmjs.com/package/polkatruffle)
+[![npm downloads](https://img.shields.io/npm/dw/polkatruffle.svg)](https://www.npmjs.com/package/polkatruffle)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 # 🎩 PolkaTruffle
 
